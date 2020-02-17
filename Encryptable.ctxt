@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Encryptable
+comment0.text=\r\n(1)\ Name\:\ Dakota\ Morgan\ \ \r\n(2)\ Date\:\ 10/15/2019\ \r\n(3)\ Instructor\:\ Ms\ Tucker\ \r\n(4)\ Class\:\ CIT249\ Java\ II\ \ \r\n(5)\ Purpose\:\ Read\ from\ a\ csv\ file,\ instantiate\ each\ record\ to\ a\ customer\ object,\r\n\ \ \ \ and\ encrypt\ the\ password\ on\ instantiation.\r\n\ \ \ \ Determine\ how\ many\ customers\ would\ fail\ new\ password\ requirements.\r\n\ \ \ \ \ \ \ \ Password\ length\ is\ 10\ or\ greater.\r\n\ \ \ \ \ \ \ \ Passwords\ contain\ both\ letters\ and\ numbers.\r\n\ \ \ \ Output\ customer\ information\ to\ a\ log\ file\ with\ the\ original\ password,\ encrypted\ \r\n\ \ \ \ password,\ unencrypted\ password,\ and\ number\ of\ password\ exceptions\ generated.\r\n
+comment1.params=
+comment1.target=void\ encrypt()
+comment2.params=
+comment2.target=java.lang.String\ decrypt()
+numComments=3

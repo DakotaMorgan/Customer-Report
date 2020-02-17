@@ -1,0 +1,209 @@
+Sat Oct 19 23:00:25 EDT 2019
+
+ID	First Name	Last Name	Password From File	Encrypted Password	Unencrypted Password	Password Exceptions
+________________________________________________________________________________________________________________________________________
+617622  Regina          Thomas          boorish62               Cdd89B4mz               boorish62               Too Short               
+139016  Lila            Friend          daughter39              TJi54WK8Of              daughter39                                      
+590106  Allan           Tighe           hope75                  4dEKeZ                  hope75                  Too Short               
+635541  Josephine       McDaniel        spiffy14                BE9GGDhx                spiffy14                Too Short               
+548459  Andrew          Brown           mice36                  y9UKOm                  mice36                  Too Short               
+164016  Brian           Brock           animated96              Jk9yJWKTfm              animated96                                      
+696036  Gloria          Ayala           mustard66               yiBWJ8Tmm               mustard66               Too Short               
+290593  Samuel          Gorman          immense63               9yyKkBKmO               immense63               Too Short               
+225635  Robert          Logan           fiveapplesBF            G9AKJEEMKBIQ            fiveapplesBF            Not Complex             
+216332  Karen           Leach           beastly33               CKJBWMDOO               beastly33               Too Short               
+225880  Larry           Lair            smasherino91            ByJB4K89kdfh            smasherino91                                    
+566834  Karen           Lundy           magenta97               yJ5KkWJfe               magenta97               Too Short               
+350381  Jasmine         Moore           thoughtful74            W4di54WGiMex            thoughtful74                                    
+350286  Ramon           Soto            hotoven86               4dWdAKkqm               hotoven86               Too Short               
+550578  Elizabeth       Meade           smokinggun89            Byd09k55ikqf            smokinggun89                                    
+322708  Leonard         Bay             marriedtwice41          yJ889KTWH9UKxh          marriedtwice41                                  
+546722  Debbie          West            outgoingone45           diW5d9k5dkKxZ           outgoingone45                                   
+379522  Robert          Mahoney         rabbitquick39           8JCC9Wri9U0Of           rabbitquick39                                   
+461243  Rose            Truong          cloistered30            UMd9BWK8KTO1            cloistered30                                    
+560282  Robert          Titus           completed96             UdyEMKWKTfm             completed96                                     
+142208  Wayne           Richardson      questionable95          riKBW9dkJCMKfZ          questionable95                                  
+513085  Peggy           Jamerson        committeeCDW            Udyy9WWKKpNw            committeeCDW            Not Complex             
+704286  Amy             Long            belligerent26           CKMM95K8KkWzm           belligerent26                                   
+131220  Sylvia          Hughes          retiredagain44          8KW98KTJ5J9kxx          retiredagain44                                  
+248800  Pamela          Singh           droopyeyes83            T8ddEDKDKBqO            droopyeyes83                                    
+214650  Rebecca         Campbell        flashlight43            GMJB4M954WxO            flashlight43                                    
+649404  Michele         Woods           oddBehavior17           dTTIK4JA9d8he           oddBehavior17                                   
+592666  Karen           Scott           foursons57              Gdi8BdkBZe              foursons57                                      
+609134  Michael         Mayer           mysterious83            yDBWK89diBqO            mysterious83                                    
+675249  Michael         Bryant          aftermath85             JGWK8yJW4qZ             aftermath85                                     
+399216  Kristina        Overton         guiltfree36             5i9MWG8KKOm             guiltfree36                                     
+409471  Carol           Wilson          loudvoice16             MdiTAd9UKhm             loudvoice16                                     
+411405  Richard         Cross           communication71         Udyyik9UJW9dkeh         communication71                                 
+230915  Angela          Petersen        Petitelady35            bKW9WKMJTDOZ            Petitelady35                                    
+406556  Gregory         James           delivered31             TKM9AK8KTOh             delivered31                                     
+472097  Marjorie        Goodman         meltedchocolateQAZ      yKMWKTU4dUdMJWKls3      meltedchocolateQAZ      Not Complex             
+514259  Zachary         Stith           mickeymouse70           y9U0KDydiBKe1           mickeymouse70                                   
+128201  Doug            Bello           kingofnothing22         09k5dGkdW49k5zz         kingofnothing22                                 
+672099  Becky           Towle           princecharming16        E89kUKU4J8y9k5hm        princecharming16                                
+530297  Sherry          Papineau        classified19            UMJBB9G9KThf            classified19                                    
+484721  Denise          Frances         cutenose53              UiWKkdBKZO              cutenose53                                      
+801204  Eugene          Beck            kindhearted15           09kT4KJ8WKThZ           kindhearted15                                   
+297878  Barbara         Boehmer         glamorous99             5MJyd8diBff             glamorous99                                     
+651369  Todd            Garcia          exercises32             KFK8U9BKBOz             exercises32                                     
+604192  Fatima          Evans           zonked98                jdk0KTfq                zonked98                Too Short               
+670220  James           Lowery          bonvoyage23             CdkAdDJ5KzO             bonvoyage23                                     
+603501  Shane           Owens           badpollution51          CJTEdMMiW9dkZh          badpollution51                                  
+184067  Yvette          Johnson         invincible12            9kA9kU9CMKhz            invincible12                                    
+134166  Karen           Maurer          thoughtless88           W4di54WMKBBqq           thoughtless88                                   
+291784  Andy            Fogg            tensnails33             WKkBkJ9MBOO             tensnails33                                     
+264573  Charmaine       Jones           blackcanvas68           CMJU0UJkAJBmq           blackcanvas68                                   
+527169  Roberta         Gutierrez       terrifickid47           WK889G9U09Txe           terrifickid47                                   
+240862  Virginia        Brewster        basketball29            CJB0KWCJMMzf            basketball29                                    
+217704  Deborah         Stephens        flippantly59            GM9EEJkWMDZf            flippantly59                                    
+589617  Alma            Williamson      venomous22              AKkdydiBzz              venomous22                                      
+557331  Robert          Blackwell       attraction42            JWW8JUW9dkxz            attraction42                                    
+249418  Maria           Fischer         naiveboy40              kJ9AKCdDx1              naiveboy40                                      
+273030  Richard         Ewell           soretooth70             Bd8KWddW4e1             soretooth70                                     
+505121  Guadalupe       Barron          belligerent37           CKMM95K8KkWOe           belligerent37                                   
+684035  Peter           Beckman         nonexistence36          kdkKF9BWKkUKOm          nonexistence36                                  
+518654  Ida             Miller          robertsrules53          8dCK8WB8iMKBZO          robertsrules53                                  
+496720  John            Reeder          lightanddark92          M954WJkTTJ80fz          lightanddark92                                  
+542372  Marisol         Smith           highfalutin68           4954GJMiW9kmq           highfalutin68                                   
+610968  Kenny           Davis           yellowsquash18          DKMMdHBriJB4hq          yellowsquash18                                  
+429375  Allene          Fields          whineybaby63            H49kKDCJCDmO            whineybaby63                                    
+705557  John            Wilbur          twocannons78            WHdUJkkdkBeq            twocannons78                                    
+201241  Elsa            Tillis          ninefriends55           k9kKG89KkTBZZ           ninefriends55                                   
+541961  Arthur          Cockerham       tourguide91             Wdi85i9TKfh             tourguide91                                     
+144116  Charles         Hightower       bentsteel26             CKkWBWKKMzm             bentsteel26                                     
+887085  Inez            Pinzon          fallfestival78          GJMMGKBW9AJMeq          fallfestival78                                  
+277262  Thomas          Webb            gainfulnot78            5J9kGiMkdWeq            gainfulnot78                                    
+323943  Jeffrey         Lovett          babybottle11            CJCDCdWWMKhh            babybottle11                                    
+368099  Mary            Mack            historical80            49BWd89UJMq1            historical80                                    
+564373  Richard         Johnson         wackytaffy61            HJU0DWJGGDmh            wackytaffy61                                    
+441219  John            Valerio         watchnsee11             HJWU4kBKKhh             watchnsee11                                     
+515908  Betty           Graddy          noreaction82            kd8KJUW9dkqz            noreaction82                                    
+406520  Robert          Lee             horrible22              4d889CMKzz              horrible22                                      
+424206  Mary            Cowden          toofunny14              WddGikkDhx              toofunny14                                      
+413732  William         Williams        bashful366              CJB4GiMOmm              bashful366                                      
+405941  Tyler           Petty           apathetic99             JEJW4KW9Uff             apathetic99                                     
+331600  Jack            Hughes          impossible41            9yEdBB9CMKxh            impossible41                                    
+198222  Daniel          Reece           calculator58            UJMUiMJWd8Zq            calculator58                                    
+174859  George          Anthony         3degrees15              OTK58KKBhZ              3degrees15                                      
+624076  Allen           Figueroa        toweringinferno12       WdHK89k59kGK8kdhz       toweringinferno12                               
+627627  Jennifer        Rawlings        fancydress99            GJkUDT8KBBff            fancydress99                                    
+213199  George          Crespo          pinetree19              E9kKW8KKhf              pinetree19                                      
+642926  Jeniffer        Bruck           interestednot52         9kWK8KBWKTkdWZz         interestednot52                                 
+345160  Virgil          Gordon          shocknawe97             B4dU0kJHKfe             shocknawe97                                     
+403235  Adeline         Bates           makeshift45             yJ0KB49GWxZ             makeshift45                                     
+338509  Stephen         Ventura         hardtofind76            4J8TWdG9kTem            hardtofind76                                    
+387194  Frank           Miranda         numberless55            kiyCK8MKBBZZ            numberless55                                    
+471441  Kim             Johnson         tightfistted16          W954WG9BWWKThm          tightfistted16                                  
+354405  Henry           Barr            chivalrous88            U49AJM8diBqq            chivalrous88                                    
+603827  James           Jung            probably35              E8dCJCMDOZ              probably35                                      
+766076  Hugo            Parker          hammerhand97            4JyyK84JkTfe            hammerhand97                                    
+658205  Linda           Perry           seashore11              BKJB4d8Khh              seashore11                                      
+467752  Marilyn         Smith           redundant88             8KTikTJkWqq             redundant88                                     
+981640  Darlene         McRae           excellentfood99         KFUKMMKkWGddTff         excellentfood99                                 
+670079  Florence        Forehand        billowyday63            C9MMdHDTJDmO            billowyday63                                    
+540627  Kimberly        Jones           outstanding95           diWBWJkT9k5fZ           outstanding95                                   
+526892  Tiffany         Whatley         observationdeck96       dCBK8AJW9dkTKU0fm       observationdeck96                               
+681091  Timothy         Mitchell        productiveclass49       E8dTiUW9AKUMJBBxf       productiveclass49                               
+498549  David           Beasley         barbarous10             CJ8CJ8diBh1             barbarous10                                     
+454345  Gay             Kovar           illinformed30           9MM9kGd8yKTO1           illinformed30                                   
+791875  Megan           Donahue         woolymammoth54          HddMDyJyydW4Zx          woolymammoth54                                  
+398214  Andrea          Callaghan       carryfour81             UJ88DGdi8qh             carryfour81                                     
+692038  Justina         Ayala           milkysoup32             y9M0DBdiEOz             milkysoup32                                     
+507627  Tanya           Rhodes          asparagus17             JBEJ8J5iBhe             asparagus17                                     
+518185  Christopher     Wirth           stonecold22             BWdkKUdMTzz             stonecold22                                     
+466987  Arica           Wagner          carwash31               UJ8HJB4Oh               carwash31               Too Short               
+224653  Preston         Bell            complexion93            UdyEMKF9dkfO            complexion93                                    
+299607  Larry           Ratley          maddening32             yJTTKk9k5Oz             maddening32                                     
+533558  Rocco           Ashe            goodeducation49         5ddTKTiUJW9dkxf         goodeducation49                                 
+505607  Tina            Blevins         unnatural74             ikkJWi8JMex             unnatural74                                     
+529045  Adam            Newell          totheairport65          WdW4KJ98Ed8WmZ          totheairport65                                  
+106252  Katherine       Beck            blueducks54             CMiKTiU0BZx             blueducks54                                     
+537082  Bobby           Reese           squealingpigs85         BriKJM9k5E95BqZ         squealingpigs85                                 
+252505  Maryjane        Marshall        nodolls4me54            kdTdMMBxyKZx            nodolls4me54                                    
+559169  June            Gray            twelvetrucks95          WHKMAKW8iU0BfZ          twelvetrucks95                                  
+667203  John            Drye            jumpybean81             PiyEDCKJkqh             jumpybean81                                     
+646481  Billy           Romanowski      foolishcats80           GddM9B4UJWBq1           foolishcats80                                   
+319444  Nancy           Cobb            purrfect69              Ei88GKUWmf              purrfect69                                      
+477784  Diane           Wilson          paperpaste46            EJEK8EJBWKxm            paperpaste46                                    
+241127  Mary            Price           sharprazor66            B4J8E8Jjd8mm            sharprazor66                                    
+644529  Sherry          McCoy           waxcandle88             HJFUJkTMKqq             waxcandle88                                     
+523540  Richard         Snyder          fasttrains41            GJBWW8J9kBxh            fasttrains41                                    
+528673  Emmett          Lira            government52            5dAK8kyKkWZz            government52                                    
+279980  Mamie           Longo           launchaship87           MJikU4JB49Eqe           launchaship87                                   
+416323  Jeffrey         Stach           greengrass80            58KKk58JBBq1            greengrass80                                    
+549772  Dawn            Amoroso         blessedones12           CMKBBKTdkKBhz           blessedones12                                   
+674121  Tisha           Stormer         crazymen40              U8JjDyKkx1              crazymen40                                      
+410664  Dessie          Holmes          goldenyams85            5dMTKkDJyBqZ            goldenyams85                                    
+426410  Alex            Fuqua           oatmealpie43            dJWyKJME9KxO            oatmealpie43                                    
+466156  Scott           Sutton          abashed60               JCJB4KTm1               abashed60               Too Short               
+277805  Sharyl          Preston         tidy22                  W9TDzz                  tidy22                  Too Short               
+665079  Nikki           Fritz           sixgeese70              B9F5KKBKe1              sixgeese70                                      
+530599  Allison         Hill            queens1255              riKKkBhzZZ              queens1255                                      
+317167  Flor            Merchant        pestyone186             EKBWDdkKhqm             pestyone186                                     
+386505  Elena           Pardue          kittydog10              09WWDTd5h1              kittydog10                                      
+317149  Kelsey          Norman          mainstreet50            yJ9kBW8KKWZ1            mainstreet50                                    
+762012  Dorothy         Mitchell        pricklypear88           E89U0MDEKJ8qq           pricklypear88                                   
+297065  Elizabeth       Rothwell        movenot52               ydAKkdWZz               movenot52               Too Short               
+238627  Fred            Cavender        pinandpin28             E9kJkTE9kzq             pinandpin28                                     
+764284  Willie          Drew            bowling64               CdHM9k5mx               bowling64               Too Short               
+547925  Helen           Wallace         judgenjury69            PiT5KkPi8Dmf            judgenjury69                                    
+152741  Raymond         Corso           holidays33              4dM9TJDBOO              holidays33                                      
+233222  Cindy           Esters          dashingsnow36           TJB49k5BkdHOm           dashingsnow36                                   
+578365  Harold          Sargent         santaclaus15            BJkWJUMJiBhZ            santaclaus15                                    
+636017  Hubert          Rose            badweather52            CJTHKJW4K8Zz            badweather52                                    
+605261  Mollie          Margolis        chewycorn75             U4KHDUd8keZ             chewycorn75                                     
+219347  Regan           Williams        chargeorpay62           U4J85Kd8EJDmz           chargeorpay62                                   
+225903  Jeannie         Martin          shoulders71             B4diMTK8Beh             shoulders71                                     
+530950  Roxanne         Duncan          monstersinc26           ydkBWK8B9kUzm           monstersinc26                                   
+402102  Joe             Ferreira        elfinmagic67            KMG9kyJ59Ume            elfinmagic67                                    
+380842  Bradley         Wells           mcdonalds11             yUTdkJMTBhh             mcdonalds11                                     
+215728  Eleanor         Rancourt        neversaynever51         kKAK8BJDkKAK8Zh         neversaynever51                                 
+327013  Louis           Ingram          yuckyflies43            DiU0DGM9KBxO            yuckyflies43                                    
+366563  Joseph          Chenault        sorethroat75            Bd8KW48dJWeZ            sorethroat75                                    
+330482  Grace           Henry           jogaround91             Pd5J8dikTfh             jogaround91                                     
+384723  Harold          Rosenberg       fourteenth57            Gdi8WKKkW4Ze            fourteenth57                                    
+460013  David           Barry           coachted18              UdJU4WKThq              coachted18                                      
+575850  Irene           Archer          xerox973                FK8dFfeO                xerox973                Too Short               
+672202  Cynthia         Pettis          wetwood76               HKWHddTem               wetwood76               Too Short               
+290323  Gabrielle       Painter         cherrytree19            U4K88DW8KKhf            cherrytree19                                    
+446761  Gary            Page            woolyworms94            HddMDHd8yBfx            woolyworms94                                    
+468483  Shirley         Jones           rakeleaves26            8J0KMKJAKBzm            rakeleaves26                                    
+153266  Ty              Ecker           windyday72              H9kTDTJDez              windyday72                                      
+566526  James           Hamlin          crystalball58           U8DBWJMCJMMZq           crystalball58                                   
+767031  Terrell         King            sitandlaugh51           B9WJkTMJi54Zh           sitandlaugh51                                   
+236881  Neva            Washington      elephant27              KMKE4JkWze              elephant27                                      
+313361  William         Cartwright      twohundred31            WHd4ikT8KTOh            twohundred31                                    
+279283  James           Vargas          lotto34545              MdWWdOxZxZ              lotto34545                                      
+153929  Theresa         Baker           notnow54                kdWkdHZx                notnow54                Too Short               
+278077  Javier          Moore           ajarajar86              JPJ8JPJ8qm              ajarajar86                                      
+156095  Janice          Spencer         running2much46          8ikk9k5zyiU4xm          running2much46                                  
+130465  Ann             Breaux          hourslater73            4di8BMJWK8eO            hourslater73                                    
+486060  Howard          Christiano      filtered65              G9MWK8KTmZ              filtered65                                      
+377291  Sally           Tipton          abandoned20             JCJkTdkKTz1             abandoned20                                     
+183403  Matthew         Rollins         totallynot39            WdWJMMDkdWOf            totallynot39                                    
+653287  Kay             Todd            chances21               U4JkUKBzh               chances21               Too Short               
+356263  Darius          Brandt          vocabulary77            AdUJCiMJ8Dee            vocabulary77                                    
+152789  Anthony         Sosa            adjectives27            JTPKUW9AKBze            adjectives27                                    
+181763  Kimberly        Neal            languages16             MJk5iJ5KBhm             languages16                                     
+351209  Walter          Moore           javacup24               PJAJUiEzx               javacup24               Too Short               
+354123  Ann             Casey           compoundit76            UdyEdikT9Wem            compoundit76                                    
+494464  Kathleen        Mankin          proposition32           E8dEdB9W9dkOz           proposition32                                   
+586213  Edmond          Buchanan        lifetimes94             M9GKW9yKBfx             lifetimes94                                     
+416257  Eric            Boll            English40               uk5M9B4x1               English40               Too Short               
+395149  June            Glass           incorporated93          9kUd8Ed8JWKTfO          incorporated93                                  
+765167  David           Joseph          wordoftheday84          Hd8TdGW4KTJDqx          wordoftheday84                                  
+465218  David           Mikels          brainstorm91            C8J9kBWd8yfh            brainstorm91                                    
+341286  Mark            Dates           various23               AJ89diBzO               various23               Too Short               
+554092  Joseph          Harper          birthday34              C98W4TJDOx              birthday34                                      
+450907  Harold          Ruth            etymology56             KWDydMd5DZm             etymology56                                     
+344078  Nicole          Grace           pronunciation50         E8dkikU9JW9dkZ1         pronunciation50                                 
+918402  William         Phillips        dailybread57            TJ9MDC8KJTZe            dailybread57                                    
+652245  Harold          Brown           snailmail54             BkJ9MyJ9MZx             snailmail54                                     
+250135  Paul            Collins         fortyseven71            Gd8WDBKAKkeh            fortyseven71                                    
+167385  John            Stanton         seveneleven24           BKAKkKMKAKkzx           seveneleven24                                   
+592896  Eric            Streeter        nowords2tell12          kdHd8TBzWKMMhz          nowords2tell12                                  
+
+Total records processed: 200
+Passwords not complex: 3
+Passwords too short: 22
+Passwords too short AND not complex: 0
